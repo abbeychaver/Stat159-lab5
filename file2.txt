@@ -1,2 +1,6 @@
+
 This is lab5.
 This lab is called Walk in Pairs.
+
+Create conflict >:(
+
