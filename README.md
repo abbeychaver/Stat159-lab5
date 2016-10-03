@@ -1,5 +1,7 @@
 # Stat159-lab5
 
-User A: Abigail Chaver
-User B: Andrea Widjaja
-User C: Priscilla Hartono
+a) User A: Abigail Chaver
+
+b) User B: Andrea Widjaja
+
+c) User C: Priscilla Hartono
