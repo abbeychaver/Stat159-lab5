@@ -1,4 +1,10 @@
 Hello World!
+Another edit to file 1
+And one more edit to file 1
+
+
+Have a great day!!
+
+This class is fun!
 
 Edits are done from branch task3C
-
